@@ -7,6 +7,8 @@ Create an application that generates a random password based on user-selected cr
 
 # Live Website
 
+<https://jeongholee21.github.io/generate-password/>
+
 ## User Stroy
 
 ```
