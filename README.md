@@ -9,6 +9,11 @@ Create an application that generates a random password based on user-selected cr
 
 <https://jeongholee21.github.io/generate-password/index.html>
 
+# Screenshot
+
+![Screenshot](https://github.com/Jeongholee21/generate-password/blob/main/03-javascript-homework-demo.png)
+
+
 ## User Stroy
 
 ```
